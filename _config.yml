@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Jason Jia"
   avatar           : "/assets/images/profile_photo_blurry.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "[jason.jia@chicagobooth.edu](mailto:jason.jia@chicagobooth.edu)"
-  location         : "Chicago, IL"
+  bio              : "[jasonjia@mit.edu](mailto:jasonjia@mit.edu)"
+  location         : "Cambridge, MA"
   email            : 
   links:
     - label: "Email"
