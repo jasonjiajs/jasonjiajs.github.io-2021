@@ -7,7 +7,7 @@ toc: false
 author_profile: true
 ---
 
-Hi! I'm Jason, a Research Professional at the University of Chicago Booth School of Business. I have worked on the following projects:
+I'm Jason, a Masters of Business Analytics (MBAn) candidate at MIT. I have worked on the following projects:
 
 #### [Disaggregated Accounts](https://www.disaggregatedaccounts.com/)
 A website with interactive Tableau maps that visualize spending destinations and revenue sources for disaggregated sets of Denmark consumers and producers. This website hosts data from joint work by Asger Andersen, Emil Toft Hansen, Kilian Huber, Niels Johannesen and Ludwig Straub (2022).
